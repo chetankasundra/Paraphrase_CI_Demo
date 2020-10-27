@@ -1,0 +1,39 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   Paraphrase.xcodeproj/project.pbxproj
+#	new file:   Paraphrase.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	new file:   Paraphrase.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+#	new file:   Paraphrase/AppDelegate.swift
+#	new file:   Paraphrase/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	new file:   Paraphrase/Assets.xcassets/Contents.json
+#	new file:   Paraphrase/Base.lproj/LaunchScreen.storyboard
+#	new file:   Paraphrase/Base.lproj/Main.storyboard
+#	new file:   Paraphrase/EditQuoteViewController.swift
+#	new file:   Paraphrase/Info.plist
+#	new file:   Paraphrase/Quote.swift
+#	new file:   Paraphrase/QuotesModel.swift
+#	new file:   Paraphrase/QuotesViewController.swift
+#	new file:   Paraphrase/ShowQuoteViewController.swift
+#	new file:   Paraphrase/SwiftyBeaver/AES256CBC.swift
+#	new file:   Paraphrase/SwiftyBeaver/Base64.swift
+#	new file:   Paraphrase/SwiftyBeaver/BaseDestination.swift
+#	new file:   Paraphrase/SwiftyBeaver/ConsoleDestination.swift
+#	new file:   Paraphrase/SwiftyBeaver/Extensions.swift
+#	new file:   Paraphrase/SwiftyBeaver/FileDestination.swift
+#	new file:   Paraphrase/SwiftyBeaver/Filter.swift
+#	new file:   Paraphrase/SwiftyBeaver/GoogleCloudDestination.swift
+#	new file:   Paraphrase/SwiftyBeaver/SBPlatformDestination.swift
+#	new file:   Paraphrase/SwiftyBeaver/SwiftyBeaver.swift
+#	new file:   Paraphrase/initial-quotes.json
+#	new file:   ParaphraseTests/Info.plist
+#	new file:   ParaphraseTests/ParaphraseTests.swift
+#	new file:   README.md#
+Adding initial source code
